@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/sahitya/Downloads/hadoop-eclipse-plugin-1.0.4-jdk1.6.jar"/>
+	<classpathentry kind="lib" path=".project"/>
+	<classpathentry kind="lib" path="/home/sahitya/Downloads/hadoop-common-2.0.0-alpha.jar"/>
+	<classpathentry kind="lib" path="/home/sahitya/Downloads/hadoop-mapreduce-client-core-2.0.2-alpha.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
